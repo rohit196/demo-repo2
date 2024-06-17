@@ -16,6 +16,10 @@ To get started with this project, follow the steps below:
 - Feature 2: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
 - Feature 3: Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
 
+## Local Development 
+
+1. Open index.html in your browser
+
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow the guidelines outlined in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
